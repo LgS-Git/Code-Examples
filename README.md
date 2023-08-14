@@ -1,3 +1,2 @@
-# Code-Examples
-Relocated projects to own repositories.
+# Relocated projects to own repositories.
 https://github.com/LgS-Git
